@@ -1,0 +1,10 @@
+
+
+/*OBJET-FIT (para las imagenes)
+
+	-Contain: valor por defecto, las resoluciones de la img se ajustan 
+	al contenido
+	-cover: la img se ajusta al contenedor y recorta los demas bordes
+	osea que no se deforma la img
+	-none: tamaño real de la img
+	-Scale-down: se queda con la resolucion mas chica entre contain y none*/
